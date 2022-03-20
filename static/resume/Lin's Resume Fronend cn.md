@@ -6,7 +6,7 @@
 
 出生年月: 1995 年 2 月
 
-工作经验: 两年半
+工作经验: 四年
 
 最高学历: 大专
 
@@ -20,21 +20,26 @@
 
 - 丰富的 Vue.js, React 技术栈项目开发经验(后台, H5), 以及对应框架生态圈。 能够编写封装易于维护的组件及业务代码
 
-- 熟悉 TypeScript，并推动在项目中落地
+- 了解 TypeScript，并推动在项目中落地
 
-- 熟悉后端技术 Node.js, Express, Egg.js, MySQL。有项目部署经验(新浪云, 阿里云, AWS, CentOS)
+- 熟悉后端技术 Node.js, Express, Egg.js, MySQL。有实际 BFF 项目及项目部署经验(新浪云, 阿里云, AWS, CentOS)
 
 - 熟悉前端工程化、组件化、前后端分离开发模式。搭建并维护通用业务组件库，前端异常监控平台(Sentry)，Jenkins 、GitLab CI/CD 自动化部署
 
 - 静态网页编写以及样式布局 HTML, CSS, LESS
 
-- 常见开发工具的使用 Git, Terminal, npm, webpack, Gulp, VSCode, macOS. 使用 Chrome Devtools 调试
+- 常见开发工具的使用 Git, Terminal, npm, webpack, docker, Gulp, VSCode, macOS. 使用 Chrome Devtools 调试
 
 - 能阅读英文文档, 长期的英文信息阅读习惯
 
 ## 工作经验
 
-- 厦门约约出行科技有限公司 2019.3 - 至今
+- 广东唯一网络科技有限公司 2020.9 - 至今
+  1. 类 CMDB 系统前端研发以及维护
+  2. 唯一运维小程序前端架构设计，需求开发
+  3. 新项目技术方案调研，框架搭建，维护公司多个项⽬，分⽀管理、需求评审、制定⽅案、培训新进员⼯
+
+- 厦门约约出行科技有限公司 2019.3 - 2020.8
   1. 参与公司与高德合作主要项目新出行项目开发、维护、上线部署
   2. 维护公司多个项目，分支管理、需求评审、制定方案、培训新进员工
   3. 研究实施项目优化方案，私有组件库、自动化部署、技术方案选型
@@ -44,8 +49,41 @@
 
 ## 项目经验
 
+- ### 唯一运维（类 CMDB 系统）
+  **项目时间:** 2020.12 - 至今  
+  **技术栈:** jQuery, Vue, Vue-Router, Vuex, Element-UI  
+  **项目介绍:** 唯一内部运维系统（类 CMDB 系统），提供仓库管理、工单、流程管理、流量聚合监控等功能  
+  **项目职责:**  
+  
+  1. 接手历史遗留项目（同时存在 jQuery，Vue 两个不同前端项目），修复多项遗留问题。保障需求开发及线上稳定性
+  2. 基于 Element-UI 封装动态表格组件，支持表单字段配置化
+  3. 搭建 Jenkins 自动部署流程
+
+  **项目地址:** [在线地址](https://yw.wy.cn) (https://yw.wy.cn)
+
+- ### 唯一运维小程序
+  **项目时间:** 2021.5 - 2021.8  
+  **技术栈:** Typescript, Taro, React, Redux, echarts-for-weixin
+  **项目介绍:** 唯一运维系统小程序版本，提供仓库管理、统计等功能  
+  **项目职责:**  
+  
+  1. 独立完成小程序前端设计项目架构（基于 Taro + React）
+  2. 引入 Typescript, 使项目更易于后期维护
+  3. 小程序图表需求基于 ECharts 微信小程序版本，封装 [npm 包](https://github.com/OXXD/echarts-for-weixin)并发布、撰写文档
+
+- ### 唯一官网
+  **项目时间:** 2021.7 - 2021.7  
+  **技术栈:** Vue, Vue-Router, Vuex, Nuxt  
+  **项目介绍:** 唯一官网  
+  **项目职责:**  
+  
+  4. 使用 Nuxt 完成 SSR（服务端渲染）
+  5. 封装通用组件，适配不同屏幕尺寸响应式组件
+
+  **项目地址:** [在线地址](https://wy.cn) (https://wy.cn)
+
 - ### 约约出行信息服务管理系统  
-  **项目时间:** 2019.3 - 至今  
+  **项目时间:** 2019.3 - 2019.12  
   **技术栈:** Vue, Vue-Router, Vuex, Axios, Node.js, Egg.js  
   **项目介绍:** 约约出行与高德合作的新出行项目管理后台，为多租户提供客户管理、订单管理、营销、客服等一体化出行行业 SAAS 应用。涉及十个以上独立后台项目组成的管理后台。  
   **项目职责:**  
@@ -58,7 +96,7 @@
   **项目地址:** [在线地址](https://admin.yueyuechuxing.cn/app-custom) (https://admin.yueyuechuxing.cn/app-custom)
 
 - ### 扫雷平台/运营平台/知识库平台/单点登录系统  
-  **项目时间:** 2020.1 - 至今  
+  **项目时间:** 2020.1 - 2020.8  
   **技术栈:** TypeScript, React, Umi, Dva, Ant-Design  
   **项目介绍:** 约约出行业务转型后由出行服务衍生的网约车出行售后服务解决方案以及内部协作平台  
   **项目职责:**  
@@ -76,7 +114,7 @@
   3. [知识库平台](https://knowledge.yueyuechuxing.cn/) (https://knowledge.yueyuechuxing.cn/)  
 
 - ### 通用业务组件库/知识库组件/智能客服 SDK  
-  **项目时间:** 2020.4 - 至今  
+  **项目时间:** 2020.4 - 2020.8  
   **技术栈:** TypeScript, React, Umi, Ant-Design, Less, Babel, Rollup  
   **项目介绍:** 业务快速发展各平台之间统一技术栈后存在通用业务及可复用的组件。基于此封装的通用业务组件库，以及封装业务 SDK 提供不同平台使用。  
   **项目职责:**  
@@ -91,24 +129,23 @@
   **项目介绍:** 独立负责完整项目开发，旧系统使用 PHP，后端前端需要迁移并使用新技术开发。前端方面独立负责 PC 系统的开发，使用 Node.js + EJS 进行服务端渲染（SSR），使用 dubbo2.js 调用后端 RPC 服务接口提供数据。  
   **项目地址:** [在线地址](https://www.360qfw.com) (https://www.360qfw.com)  
 
-- ### 各类后台项目  
-  **项目时间:** 2018.4 - 2018.10  
-  **技术栈:** Vue, Element-UI, Node.js, Express, Egg.js, dubbo2.js, Less, ECharts  
-  **项目介绍:** 各种后台项目，基本都是使用 Vue + Element-UI 开发，使用 Node.js + dubbo2.js 通过 RPC 调用后端 JAVA 服务。Node 方面一开始使用简单的 Express 到后来稍微完整的阿里的 Node 框架 Egg.js。后台项目功能也都是比较常见的各类表单，表格数据展示，用户、角色权限、订单、各种业务模块管理，还有一些图表功能使用 ECharts 实现。  
-  **项目地址:** [项目 1](http://admin.ops.1fendb.com), [项目 2](http://booking.meg-star.com:8880/mocao-ops/)  
-
 - ### 蒸会炖管理后台，H5 在线点餐系统  
   **项目时间:** 2018.8 - 2018.10  
   **技术栈:** Vue, Element-UI, Node.js, Egg.js, dubbo2.js, Less, ECharts  
-  **项目介绍:** 后台和其他后台项目开发模式基本相同，独立负责。这个项目较大，还有供应商后台，和 H5 在线点餐系统（类似饿了么，美团外卖）。 H5 方面负责开发了订单模块，地理位置，店铺菜品搜索。  
+  **项目介绍:** 后台和其他后台项目开发模式基本相同，独立负责。使用 Vue + Element-UI 开发后台前端，使用 Node.js + dubbo2.js 通过 RPC 调用后端 JAVA 服务。这个项目较大，还有供应商后台，和 H5 在线点餐系统（类似饿了么，美团外卖）。 H5 方面负责开发了订单模块，地理位置，店铺菜品搜索。  
   **项目地址:** [后台](http://admin.ops.1fendb.com), [H5](http://h5.1fendb.com)  
 
 ## 个人项目
 
+- echarts-for-weixin  
+  **技术栈:** JavaScript, Gulp  
+  **项目介绍:** Apache ECharts 官方提供了在微信小程序中使用Echarts 的代码实例和 ec-canvas 组件，但是未发布 npm 包。此项目在官方代码之上修改支持 ec-canvas 组件传入 echarts 可支持 npm 引入 echarts 或本地自定义构建后的 echarts，更符合 Web 开发体验。并且发布 npm 包，支持小程序通过 npm 安装使用。并支持 Taro 按需引入 echarts 减小打包体积。  
+  **项目地址:** [在线地址](https://github.com/OXXD/echarts-for-weixin) (https://github.com/OXXD/echarts-for-weixin)
+
 - Steam 游戏商城  
   **技术栈:** jQuery, AJAX, Node.js, Express, MySQL  
   **项目介绍:** 独立完成游戏商城项目的架构设计, 前后端开发, 数据库搭建。首页、搜索模块、产品模块、用户模块的功能实现。  
-  前端使用 jQuery 实现页面效果以及与服务器通信展示数据: 轮播、下拉菜单、二级菜单、分类搜索、筛选搜索、分页、用户登录注册与验证等 . 已部署上线新浪云, AWS  
+  前端使用 jQuery 实现页面效果以及与服务器通信展示数据: 轮播、下拉菜单、二级菜单、分类搜索、筛选搜索、分页、用户登录注册与验证等. 部署上线于新浪云, AWS, Heroku  
   **项目地址:** [在线地址](http://fakesteam.oxxd.me) (http://fakesteam.oxxd.me)
 
 <!-- - 响应式企业主站  
