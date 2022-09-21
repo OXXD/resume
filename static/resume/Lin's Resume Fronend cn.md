@@ -34,6 +34,9 @@
 
 ## 工作经验
 
+- 厦门北郡科技有限公司 2022.8 - 2022.9
+  1. 智慧物流项目前端开发
+
 - 厦门诺柚网络科技有限公司 2022.5 - 2022.7
   1. 响应式官网前端开发
   2. 区块链信息聚合追踪工具前端开发
@@ -155,11 +158,11 @@
   **项目介绍:** 独立负责完整项目开发，旧系统使用 PHP，后端前端需要迁移并使用新技术开发。前端方面独立负责 PC 系统的开发，使用 Node.js + EJS 进行服务端渲染（SSR），使用 dubbo2.js 调用后端 RPC 服务接口提供数据。  
   **项目地址:** [在线地址](https://www.360qfw.com) (https://www.360qfw.com)  
 
-- ### 蒸会炖管理后台，H5 在线点餐系统  
+<!-- - ### 蒸会炖管理后台，H5 在线点餐系统  
   **项目时间:** 2018.8 - 2018.10  
   **技术栈:** Vue, Element-UI, Node.js, Egg.js, dubbo2.js, Less, ECharts  
   **项目介绍:** 后台和其他后台项目开发模式基本相同，独立负责。使用 Vue + Element-UI 开发后台前端，使用 Node.js + dubbo2.js 通过 RPC 调用后端 JAVA 服务。这个项目较大，还有供应商后台，和 H5 在线点餐系统（类似饿了么，美团外卖）。 H5 方面负责开发了订单模块，地理位置，店铺菜品搜索。  
-  **项目地址:** [后台](http://admin.ops.1fendb.com), [H5](http://h5.1fendb.com)  
+  **项目地址:** [后台](http://admin.ops.1fendb.com), [H5](http://h5.1fendb.com)   -->
 
 ## 个人项目
 
@@ -198,7 +201,7 @@
 
 - 良好的逻辑理解与解决问题的能力
 
-- 对新技术新知识敏感, 热爱开源, 有[个人页面](https://oxxd.me), [Github](https://github.com/OXXD), [Blog](http://blog.oxxd.me), [语雀](https://www.yuque.com/oxxd/fed)
+- 对新技术新知识敏感, 热爱开源, 有[个人页面](https://oxxd.me), [Github](https://github.com/OXXD), [Blog](http://blog.oxxd.me), [语雀](https://www.yuque.com/oxxd/fed), [掘金](https://juejin.cn/user/571401777723047)
 
 ## 教育背景
 
