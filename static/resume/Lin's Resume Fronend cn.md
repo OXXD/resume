@@ -6,7 +6,7 @@
 
 出生年月: 1995 年 2 月
 
-工作经验: 四年
+工作经验: 八年
 
 最高学历: 大专
 
@@ -16,26 +16,24 @@
 
 ## 技能
 
-- 原生 JavaScript, DOM, ES6. 熟练使用相应技术进行页面效果开发以及前后端数据交互
+- 精通 JavaScript, TypeScript。熟练使用相应技术进行页面效果开发以及前后端数据交互
 
-- 丰富的 Vue.js, React 技术栈项目开发经验(PC, 后台, H5), 以及对应框架生态圈。 能够编写封装易于维护的组件及业务代码
+- 丰富的 Vue.js, React 技术栈项目开发经验（PC, 后台, H5）, 以及对应框架生态圈（Vue 2、Vite、Next.js、Ant Design、React Router、Redux等）。能够编写和封装易于维护的组件及业务代码
 
-- 熟悉 TypeScript，并推动在项目中落地
+- 了解后端技术 Node.js, Express, Nest.js, Egg.js等。有实际后端项目、BFF 项目及项目部署经验（阿里云, AWS, Google Cloud）
 
-- 了解后端技术 Node.js, Express, Egg.js, MySQL。有实际 BFF 项目及项目部署经验(新浪云, 阿里云, AWS, CentOS)
+- 熟悉前端工程化、组件化、前后端分离开发模式。搭建并维护通用业务组件库、前端异常监控平台（Sentry），Jenkins、GitLab CI/CD 自动化部署，编写 Docker 镜像和通过 Rancher 平台部署
 
-- 熟悉前端工程化、组件化、前后端分离开发模式。搭建并维护通用业务组件库，前端异常监控平台(Sentry)，Jenkins 、GitLab CI/CD 自动化部署
-
-- 静态网页编写以及样式布局 HTML, CSS, LESS
-
-- 常见开发工具的使用 Git, Terminal, npm, webpack, docker, Gulp, VSCode, macOS. 使用 Chrome Devtools 调试
+- 静态网页编写以及样式布局 HTML, CSS, LESS, Tailwind CSS
 
 - 能阅读英文文档, 长期的英文信息阅读习惯
 
 ## 工作经验
 
-- 厦门北郡科技有限公司 2022.8 - 2022.9
-  1. 智慧物流项目前端开发
+- 微游互娱科技有限公司 2022.10 - 2026.1
+  1. 微游小游戏中心前端核心开发
+  2. 商户平台/开发者文档站/数据中台前端开发负责人
+  3. 负责整体项目架构、搭建、需求实现、部署，并带领前端小组从零开始完成项目及长期需求迭代
 
 - 厦门诺柚网络科技有限公司 2022.5 - 2022.7
   1. 响应式官网前端开发
@@ -79,7 +77,7 @@
   **项目地址:** [在线地址](https://www.netbzztech.com/) (https://www.netbzztech.com/)
 
 - ### 唯一运维（类 CMDB 系统）
-  **项目时间:** 2020.12 - 至今  
+  **项目时间:** 2020.12 - 2022.5  
   **技术栈:** jQuery, Vue, Vue-Router, Vuex, Element-UI  
   **项目介绍:** 唯一内部运维系统（类 CMDB 系统），提供仓库管理、工单、流程管理、流量聚合监控等功能  
   **项目职责:**  
@@ -92,7 +90,7 @@
 
 - ### 唯一运维小程序
   **项目时间:** 2021.5 - 2021.8  
-  **技术栈:** Typescript, Taro, React, Redux, echarts-for-weixin
+  **技术栈:** Typescript, Taro, React, Redux, echarts-for-weixin  
   **项目介绍:** 唯一运维系统小程序版本，提供仓库管理、统计等功能  
   **项目职责:**  
   
@@ -113,7 +111,7 @@
 
 - ### 约约出行信息服务管理系统  
   **项目时间:** 2019.3 - 2019.12  
-  **技术栈:** Vue, Vue-Router, Vuex, Axios, Node.js, Egg.js  
+  **技术栈:** Vue, Vue-Router, Vuex, Axios  
   **项目介绍:** 约约出行与高德合作的新出行项目管理后台，为多租户提供客户管理、订单管理、营销、客服等一体化出行行业 SAAS 应用。涉及十个以上独立后台项目组成的管理后台。  
   **项目职责:**  
   
@@ -152,11 +150,11 @@
   2. 封装提供业务 SDK 使不同平台不同技术栈具有业务复用能力
   3. 知识库组件、智能客服组件的封装
 
-- ### 乾方位 P2P 金融项目 PC 网站重构  
+<!-- - ### 乾方位 P2P 金融项目 PC 网站重构  
   **项目时间:** 2018.11 - 2018.12  
   **技术栈:** jQuery, Node.js, Egg.js, dubbo2.js, EJS, Less, Gulp, ECharts  
   **项目介绍:** 独立负责完整项目开发，旧系统使用 PHP，后端前端需要迁移并使用新技术开发。前端方面独立负责 PC 系统的开发，使用 Node.js + EJS 进行服务端渲染（SSR），使用 dubbo2.js 调用后端 RPC 服务接口提供数据。  
-  **项目地址:** [在线地址](https://www.360qfw.com) (https://www.360qfw.com)  
+  **项目地址:** [在线地址](https://www.360qfw.com) (https://www.360qfw.com)   -->
 
 <!-- - ### 蒸会炖管理后台，H5 在线点餐系统  
   **项目时间:** 2018.8 - 2018.10  
@@ -173,8 +171,8 @@
 
 - Steam 游戏商城  
   **技术栈:** jQuery, AJAX, Node.js, Express, MySQL  
-  **项目介绍:** 独立完成游戏商城项目的架构设计, 前后端开发, 数据库搭建。首页、搜索模块、产品模块、用户模块的功能实现。  
-  前端使用 jQuery 实现页面效果以及与服务器通信展示数据: 轮播、下拉菜单、二级菜单、分类搜索、筛选搜索、分页、用户登录注册与验证等. 部署上线于新浪云, AWS, Heroku  
+  **项目介绍:** 早期前端学习实践项目。独立完成游戏商城项目的架构设计, 前后端开发, 数据库搭建。首页、搜索模块、产品模块、用户模块的功能实现。  
+  前端使用 jQuery 实现页面效果以及与服务器通信展示数据: 轮播、下拉菜单、二级菜单、分类搜索、筛选搜索、分页、用户登录注册与验证等. 使用过新浪云, AWS, Heroku, Render 部署上线  
   **项目地址:** [在线地址](http://fakesteam.oxxd.me) (http://fakesteam.oxxd.me)
 
 <!-- - 响应式企业主站  
@@ -183,8 +181,8 @@
   **项目地址:** [在线演示](http://bigcanyon.work) (http://bigcanyon.work) -->
 
 - 个人页面  
-  **技术栈:** Hugo, Academic Theme, Netlify, Git  
-  **项目介绍:** 这是使用 Hugo 框架快速搭建的在线响应式个人简历。并且部署到 Netlify, 使用自定义域名，绑定 HTTPS。  
+  **技术栈:** Next.js, Nextra, Markdown  
+  **项目介绍:** 使用 Next.js 搭建的个人博客站点，定期更新技术学习文章  
   **项目地址:** [在线地址](https://oxxd.me) (https://oxxd.me)
 
 <!-- - React 音乐播放器
@@ -201,7 +199,9 @@
 
 - 良好的逻辑理解与解决问题的能力
 
-- 对新技术新知识敏感, 热爱开源, 有[个人页面](https://oxxd.me), [Github](https://github.com/OXXD), [Blog](http://blog.oxxd.me), [语雀](https://www.yuque.com/oxxd/fed), [掘金](https://juejin.cn/user/571401777723047)
+- 对新技术新知识敏感, 热爱开源（部分 PR：[Next.js](https://github.com/vercel/next.js/pull/60451), [Ant Design Pro](https://github.com/ant-design/pro-components/pull/7864)）
+
+- [个人页面](https://oxxd.me), [Github](https://github.com/OXXD), [Blog](http://blog.oxxd.me), [掘金](https://juejin.cn/user/571401777723047)
 
 ## 教育背景
 
